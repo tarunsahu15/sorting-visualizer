@@ -28,8 +28,8 @@ Visual Samples:
 
 
 # Sample 1: (Insertion Sort)
-![Example1](https://github.com/sanskritisahu21/Sorting-Visualizer/blob/main/example1%20(1).gif)
+![Example1](https://github.com/tarunsahu15/sorting-visualizer/blob/main/example1%20(1).gif)
 
 
 # Sample 2: (Merge Sort)
-![Example2](https://github.com/sanskritisahu21/Sorting-Visualizer/blob/main/example2.gif)
+![Example2](https://github.com/tarunsahu15/sorting-visualizer/blob/main/example2.gif)
